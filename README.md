@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+## NAME:PRIYANKA S
+## REF.NO:25017930
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -23,6 +24,13 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+![WhatsApp Image 2025-12-29 at 08 51 11_cac1e933](https://github.com/user-attachments/assets/b826c628-bdbd-434f-8d01-07da52ed001d)
+![WhatsApp Image 2025-12-29 at 08 51 12_9af89451](https://github.com/user-attachments/assets/624534c9-4f9d-4658-8f8b-a408993939e2)
+![WhatsApp Image 2025-12-29 at 08 51 12_871d18d4](https://github.com/user-attachments/assets/c283ffbd-ab10-499c-ab46-fdb7ac7ceca1)
+![WhatsApp Image 2025-12-29 at 08 51 12_86b738e0](https://github.com/user-attachments/assets/4d2611e8-ab49-4fbb-9f3b-fd0bf562bed7)
+![WhatsApp Image 2025-12-29 at 08 51 12_058665ff](https://github.com/user-attachments/assets/86bab2ea-b4ee-4626-9792-4a4a48a93626)
+
+
 
 **To measure IL**
 
